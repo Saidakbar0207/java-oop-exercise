@@ -1,6 +1,6 @@
 package oop2;
 
- class Stock {
+ public class Stock {
      String symbol;
      String name;
      double previousClosingPrice;

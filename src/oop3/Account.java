@@ -1,6 +1,6 @@
 package oop3;
 
-class Account {
+  public class Account {
     private int id;
     private double balance;
     private double annualInterestRate;

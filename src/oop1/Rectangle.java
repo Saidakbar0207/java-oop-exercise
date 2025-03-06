@@ -1,5 +1,5 @@
 package oop1;
- class Rectangle {
+  public class Rectangle {
     double width;
     double height;
     Rectangle(double width, double height) {

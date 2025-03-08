@@ -1,4 +1,4 @@
-package oop2;
+package oop_exercise_begin.oop2;
 
  public class Stock {
      String symbol;

@@ -1,4 +1,4 @@
-package oop1;
+package oop_exercise_begin.oop1;
 
 public class Main {
          public static void main(String[] args) {

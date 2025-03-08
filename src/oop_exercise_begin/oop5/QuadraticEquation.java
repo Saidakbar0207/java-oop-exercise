@@ -1,4 +1,4 @@
-package oop5;
+package oop_exercise_begin.oop5;
 
 public class QuadraticEquation {
     private int a, b, c;

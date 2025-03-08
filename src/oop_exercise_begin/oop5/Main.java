@@ -1,6 +1,4 @@
-package oop5;
-
-import java.util.Scanner;
+package oop_exercise_begin.oop5;
 
 public class Main {
     public static void main(String[] args) {

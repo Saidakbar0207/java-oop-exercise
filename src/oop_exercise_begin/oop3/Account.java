@@ -1,4 +1,4 @@
-package oop3;
+package oop_exercise_begin.oop3;
 
   public class Account {
     private int id;

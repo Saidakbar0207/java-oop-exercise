@@ -11,7 +11,6 @@ public class Employee {
         this.lastName = lastName;
         this.salary = salary;
     }
-
     public int getId() {
         return id;
     }
@@ -27,7 +26,6 @@ public class Employee {
     public int getSalary() {
         return salary;
     }
-
     public void setSalary(int salary) {
         this.salary = salary;
     }
@@ -37,7 +35,6 @@ public class Employee {
     public int raiseSalary(double percent) {
     return (int)(salary *(1+ percent / 100.0));
     }
-
     @Override
     public String toString() {
         return "Employee{" +

@@ -1,4 +1,4 @@
-package oop_exercise_begin.oop6;
+package oop_exercise_begin_.oop_exercise_begin_oop6;
 
 public class LinearEquation {
     private int a,b,c,d,e,f;

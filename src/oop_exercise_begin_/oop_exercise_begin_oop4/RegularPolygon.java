@@ -1,4 +1,4 @@
-package oop_exercise_begin.oop4;
+package oop_exercise_begin_.oop_exercise_begin_oop4;
 
   class RegularPolygon {
     private int n;

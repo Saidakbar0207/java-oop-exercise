@@ -1,4 +1,4 @@
-package oop_exercise_begin.oop1;
+package oop_exercise_begin_oop1;
   public class Rectangle {
     double width;
     double height;
